@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex Grau
+# 👋 Hi, I'm Alex
 
 🎓 **B.S. in Computer Science**, Oregon State University
 
