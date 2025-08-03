@@ -22,7 +22,7 @@ I'm a software engineer passionate about building scalable applications and deli
 **Backend:**  
 `Django` · `DRF` · `Flask` · `Hono` · `Celery` · `Prisma`  
 **Cloud & DevOps:**  
-`AWS` (ECS, RDS, Cognito) · `Docker` · `GCP`  
+`AWS (ECS, RDS, Cognito)` · `Docker` · `GCP`  
 **Databases:**  
 `PostgreSQL` · `MySQL`  
 **Tools:**  
