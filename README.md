@@ -15,7 +15,7 @@ I'm a software engineer passionate about building scalable applications and deli
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 **Frontend:**  
 `React Native` · `React.js` · `Next.js` · `TypeScript` · `Expo`  
