@@ -31,6 +31,10 @@ I'm a software engineer passionate about building scalable applications and deli
 ---
 
 ## 📱 Projects
+### 🎯 BetsOff App
+Fantasy sports betting app to help users avoid developing a gambling addiction
+- Created full-stack experience using Django + React Native  
+- Managed async tasks with Celery and improved performance through user feedback
 
 ### 🔍 Job Hunting AI Tool
 AI-powered platform for personalized job search  
@@ -38,17 +42,11 @@ AI-powered platform for personalized job search
 - Connected a React.js front-end to a Flask backend API  
 - Deployed using GCP and Docker
 
-### 🎯 BetsOff App
-Fantasy sports betting app to help users avoid developing a gambling addiction
-- Created full-stack experience using Django + React Native  
-- Managed async tasks with Celery and improved performance through user feedback
-
 ---
 
 ## 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/alejandro-grau/)
-- [Portfolio](https://your-portfolio.com)
 - [Email](mailto:alejandromgrau@gmail.com)
 
 Thanks for visiting! 👨‍💻
